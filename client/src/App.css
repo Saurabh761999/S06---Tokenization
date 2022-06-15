@@ -1,5 +1,21 @@
 .App {
   text-align: center;
+  
+}
+/* .imagess{
+background-image: url("download\ \(1\).jpg");
+height: 800%;
+
+size-adjust: full;
+} */
+
+.cs{
+  background-image: url("down.jpg");
+  height: 705px;
+}
+.navbar-brand{
+  /* text-align: center; */
+  margin-left: 30%;
 }
 
 .App-logo {
@@ -7,7 +23,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color:solid 2px blue;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,4 +35,35 @@
 
 .App-link {
   color: #09d3ac;
+}
+/* .App-div {
+} */
+
+.card{
+  max-width:35%;
+  
+}
+.first{
+  
+   margin-left: 13%;
+  margin-top: 11%;
+  margin-bottom: 15%
+  ;
+}
+
+.sec{
+  margin-left: 55%;
+  margin-top: -15%;
+  margin-bottom: 15%
+  ;
+}
+.but1:hover{
+  background-color:rgb(28, 177, 236);
+}
+.but2:hover{
+  background-color:rgb(28, 177, 236);
+
+}
+.input1:hover{
+  border:solid 2px aqua;
 }
